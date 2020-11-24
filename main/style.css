@@ -1,0 +1,12 @@
+
+.title {
+    text-align: center;
+}
+.map {
+    background-color: rgba(223, 255, 205, 0.705);
+}
+#map {
+    margin: 0 auto;
+	width: 950px; 
+	height: 950px;
+}
